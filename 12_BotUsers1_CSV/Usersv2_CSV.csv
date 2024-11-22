@@ -1,0 +1,10 @@
+Id,name,username,generation,specialty,dateBirth
+1,userv2_1,usernamev2_1,2022,BackEnd,2002-02-22
+2,userv2_2,usernamev2_2,2023,FrontEnd,2001-01-21
+3,userv2_3,usernamev2_3,2024,IngeDatos,2002-03-23
+4,userv2_4,usernamev2_4,2021,BackEnd,2001-05-25
+5,userv2_5,usernamev2_5,2022,FrontEnd,2002-06-26
+6,userv2_6,usernamev2_6,2023,IngeDatos,2001-07-27
+7,userv2_7,usernamev2_7,2024,BackEnd,2002-08-28
+8,userv2_8,usernamev2_8,2021,FrontEnd,2001-09-29
+9,userv2_9,usernamev2_9,2022,IngeDatos,2002-10-30
