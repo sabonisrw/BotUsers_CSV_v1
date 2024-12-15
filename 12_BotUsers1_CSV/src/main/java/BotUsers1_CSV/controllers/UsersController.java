@@ -95,8 +95,4 @@ public class UsersController {
 			return new ResponseEntity<>("Error al procesar la solicitud", HttpStatus.INTERNAL_SERVER_ERROR);
 		}
 	}
-	
-	/*	
-
-	 */
 }
